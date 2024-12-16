@@ -18,7 +18,7 @@ This winter, we’re taking it up a notch by working on **easy-to-large scale pr
 
 ## Project Goals
 
-- **Quantity**: Create up to **100 projects**.  
+- **Quantity**: Create at least **50 projects**.  
 - **Variety**: Explore a mix of:  
   - Web apps (React, Node.js, etc.)  
   - Frontend designs  
